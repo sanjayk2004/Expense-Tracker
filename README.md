@@ -2,8 +2,6 @@
 
 Budgify is a full-stack expense tracking application built with **React, Node.js, Express, and MongoDB**. It lets users record expenses, view their tracked expenses, edit existing entries, and delete entries.
 
-Project Demo: https://weathers-ap.netlify.app
-
 ## Features
 
 - **Add expenses** with a title, amount, date, and category.
@@ -250,4 +248,4 @@ Before pushing the project:
 
 No license is currently specified. Add a `LICENSE` file if you want to define how others may use, modify, or distribute this project.
 
-Demo : https://weathers-ap.netlify.app
+
